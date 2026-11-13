@@ -1,0 +1,6 @@
+{
+  "name": "Babar Azam — Unofficial Fan Tribute",
+  "description": "An unofficial fan website celebrating Babar Azam's cricket career, verified records, iconic innings, and photography gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
